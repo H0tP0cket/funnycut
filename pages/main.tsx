@@ -19,7 +19,7 @@ const HaircutFinder = () => {
   };
 
   const handleHairLengthChange = (
-    event: React.ChangeEvent<HTMLSelectElement>
+    event: React.ChangeEvent<HTMLInputElement>
   ) => {
     setUserHairLength(parseFloat(event.target.value));
   };
@@ -42,14 +42,7 @@ const HaircutFinder = () => {
       <form onSubmit={handleSubmit}>
         <label>
           Head Shape:
-          <select
-            value
-            John
-            Bekfast
-            continue
-            on={userHeadShape}
-            onChange={handleHeadShapeChange}
-          >
+          <select value={userHeadShape} onChange={handleHeadShapeChange}>
             <option value=""></option>
             <option value="oval">Oval</option>
             <option value="square">Square</option>

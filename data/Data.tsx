@@ -166,7 +166,7 @@ const haircuts: Haircut[] = [
     style: "longer",
     etc: "None",
     image: "",
-    bestForHeadShape: [""],
+    bestForHeadShape: ["Diamond, Rectangle, Oval"],
   },
   {
     name: "Mullet",
