@@ -1,10 +1,9 @@
-import { ChangeEvent, SetStateAction, useState } from "react";
-import Butoon from "../components/button";
+import { ChangeEvent, useState } from "react";
+
 import Card from "../components/card1";
-import Navbar from "../components/navbar";
-// import haircuts from "../data/Data";
+import Navbar2 from "../components/nav2";
+
 import haircuts from "../data/data.json";
-// import haircuts from "../data/Data";
 
 const FilterHaircuts = () => {
   const [headShape, setHeadShape] = useState("");
@@ -27,7 +26,7 @@ const FilterHaircuts = () => {
 
   return (
     <div className="bg-gray-900 min-h-screen  mx-auto ">
-      <Navbar />
+      <Navbar2 />
       <div className="grid grid-cols-1 md:grid-cols-2">
         <div>
           <form onSubmit={handleSubmit} className="px-10">
@@ -44,7 +43,7 @@ const FilterHaircuts = () => {
               <div className="grid grid-cols-2 ">
                 <div className="pb-2">
                   <button
-                    className="rounded-xl w-full px-4 py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200 "
+                    className="animate__animated animate_fadeInLeft rounded-xl w-full px-4 py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200 "
                     value={headShape}
                     onClick={() => setHeadShape("oval")}
                   >
@@ -53,7 +52,7 @@ const FilterHaircuts = () => {
                 </div>
                 <div className="pb-2"></div>
                 <button
-                  className="rounded-xl px-4 w-full py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
+                  className="animate__animated animate_fadeInLeft rounded-xl px-4 w-full py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
                   value={headShape}
                   onClick={() => setHeadShape("square")}
                 >
@@ -63,7 +62,7 @@ const FilterHaircuts = () => {
                 <div>
                   <div className="pb-2"></div>
                   <button
-                    className="rounded-xl px-4 w-full py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
+                    className=" animate__animated animate_fadeInLeft rounded-xl px-4 w-full py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
                     value={headShape}
                     onClick={() => setHeadShape("rectangle")}
                   >
@@ -71,7 +70,7 @@ const FilterHaircuts = () => {
                   </button>{" "}
                   <div className="pb-2"></div>
                   <button
-                    className="rounded-xl px-4  w-full py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
+                    className="animate__animated animate_fadeInLeft rounded-xl px-4  w-full py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
                     value={headShape}
                     onClick={() => setHeadShape("diamond")}
                   >
@@ -82,7 +81,7 @@ const FilterHaircuts = () => {
                 <div>
                   <div className="pb-2"></div>
                   <button
-                    className="rounded-xl w-full px-4 py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
+                    className="animate__animated animate_fadeInLeft rounded-xl w-full px-4 py-2 text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
                     value={headShape}
                     onClick={() => setHeadShape(" heart")}
                   >
@@ -90,7 +89,7 @@ const FilterHaircuts = () => {
                   </button>{" "}
                   <div className="pb-2"></div>
                   <button
-                    className="rounded-xl px-4 py-2 w-full text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
+                    className=" animate__animated animate_fadeInLeft rounded-xl px-4 py-2 w-full text-white-100 bg-red-100 text-center focus:outline-none focus:bg-red-200"
                     value={headShape}
                     onClick={() => setHeadShape("round")}
                   >
@@ -127,7 +126,8 @@ const FilterHaircuts = () => {
             </div>
           </form>
         </div>
-        <div className="mt-4 grid md:grid-cols-3 grid-cols-1 p-20 md:p-4">
+
+        <div className="mt-4 grid md:grid-cols-3 grid-cols-1 p-20 md:p-4 animate__animated animate__slideInDown">
           {filteredHaircuts.map((haircut) => (
             <Card
               key={haircut.id}

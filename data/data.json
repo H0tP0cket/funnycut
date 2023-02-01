@@ -5,7 +5,7 @@
     "length": [3, 4, 5, 6, 7],
     "hairType": ["straight"],
     "style": "fade",
-    "etc": "Side part",
+    "etc": "Side part with a fade, you can ask your barber for a low mid or high fade depending on how much skin you want to show",
     "image": "https://i.pinimg.com/564x/45/66/bf/4566bf53cf0113f6921bce26462647af.jpg",
     "bestForHeadShape": ["heart", "square", "diamond"]
   },
@@ -15,7 +15,7 @@
     "length": [3, 4, 5, 6, 7],
     "hairType": ["curly"],
     "style": "fade",
-    "etc": "on the forehead fringe style ",
+    "etc": "on the forehead fringe style covers up corners well and styling is low",
     "image": "https://i.pinimg.com/736x/88/ce/21/88ce21ba473aec72d4564171d29f6b81.jpg",
     "bestForHeadShape": ["rectangle", "oval"]
   },
@@ -25,7 +25,7 @@
     "length": [2, 3, 4, 5, 6, 7, 8],
     "hairType": ["straight", "wavy", "curly", "coily"],
     "style": "fade",
-    "etc": "Side part",
+    "etc": "creates a burst effect and mullet/longer hair at the back",
     "image": "https://i.pinimg.com/736x/68/10/0f/68100f6e377fae91afb92721b292fdc8.jpg",
     "bestForHeadShape": ["diamond", "rectangle"]
   },
@@ -35,7 +35,7 @@
     "length": [0, 1],
     "hairType": ["straight"],
     "style": "buzz cut",
-    "etc": "None",
+    "etc": "clean and simple",
     "image": "https://cdn-fnknc.nitrocdn.com/jwqHRGAzpUgGskUSHlppNQzwuXgXIKwg/assets/images/optimized/rev-971f4d9/wp-content/uploads/2021/11/Buzz-Cut-Fade_vinicius.rodrigues.barber.jpg",
     "bestForHeadShape": ["diamond", "square", "oval"]
   },
@@ -45,7 +45,7 @@
     "length": [4, 5, 6],
     "hairType": ["straight"],
     "style": "undercut",
-    "etc": "None",
+    "etc": "shave the sides and keep the top longer to get a clean undercut",
     "image": "https://menshaircuts.com/wp-content/uploads/2021/08/curly-undercut-disconnected-drop-bald-fade-short-683x1024.jpg",
     "bestForHeadShape": ["round", "oval"]
   },
@@ -55,7 +55,7 @@
     "length": [5, 6, 7, 8, 9],
     "hairType": ["wavy", "straight"],
     "style": "pompadour",
-    "etc": "None",
+    "etc": "be like elvis presley and rock this style with confidence",
     "image": "https://i.pinimg.com/564x/3d/31/af/3d31af59052a9ca30c6aa940ccc3d51c.jpg",
     "bestForHeadShape": ["oval", "round"]
   },
@@ -65,7 +65,7 @@
     "length": [3, 4, 5, 6],
     "hairType": ["curly"],
     "style": "combover",
-    "etc": "Quiff",
+    "etc": "A gentle quiff is a great way to stay composed and look good",
     "image": "https://lovehairstyles.com/wp-content/uploads/2019/03/quiff-haircut-hairstyle-highlights-683x1024.jpg",
     "bestForHeadShape": ["heart", "rectangle"]
   },
@@ -75,7 +75,7 @@
     "length": [6, 7, 8, 9],
     "hairType": ["straight"],
     "style": "combover",
-    "etc": "Slick back",
+    "etc": "Blast from the 90s",
     "image": "https://cdn.shopify.com/s/files/1/0162/2116/files/Low-Drop-Fade-Line-Up-Shiny-Slicked-Back-Top.jpg?v=1552374709",
     "bestForHeadShape": ["oval", "diamond"]
   },
@@ -85,7 +85,7 @@
     "length": [1, 2],
     "hairType": ["straight"],
     "  style": "buzz cut",
-    "etc": "None",
+    "etc": "Sharp and clean",
     "image": "https://cdn-fnknc.nitrocdn.com/jwqHRGAzpUgGskUSHlppNQzwuXgXIKwg/assets/images/optimized/rev-971f4d9/wp-content/uploads/2022/02/High-Fade-Crew-Cut_besthairstylesmen.jpg",
     "bestForHeadShape": ["square", "rectangle", "diamond"]
   },
@@ -95,7 +95,7 @@
     "length": [4, 5, 6],
     "hairType": ["straight"],
     "style": "combover",
-    "etc": "Side part",
+    "etc": "an all time classic look",
     "image": "https://www.menshairstyletrends.com/wp-content/uploads/2017/02/sam-wines-hair-medium-length-hairstyles-for-men-side-part-e1486511185907.jpg ",
     "bestForHeadShape": ["heart", "square", "diamond"]
   },
@@ -105,7 +105,7 @@
     "length": [3, 4, 5],
     "hairType": ["curly"],
     "style": "combover",
-    "etc": "Fringe",
+    "etc": "keeps some forehead hidden and looks great on most",
     "image": "https://i.pinimg.com/736x/7d/49/d7/7d49d79b58082439a5d394383ba10e60.jpg ",
     "bestForHeadShape": ["heart", "rectangle"]
   },
@@ -115,7 +115,7 @@
     "length": [10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
     "hairType": ["straight"],
     "style": "longer",
-    "etc": "None",
+    "etc": "grow it out bro",
     "image": "https://i0.wp.com/www.hadviser.com/wp-content/uploads/2019/01/32-long-hairstyle-with-flipped-layers-Be_5JCmnJOI.jpg?resize=1074%2C1265&ssl=1 ",
     "bestForHeadShape": ["diamond", "round", "oval"]
   },
@@ -125,7 +125,7 @@
     "length": [6, 7, 8, 9],
     "hairType": ["wavy"],
     "style": "longer",
-    "etc": "None",
+    "etc": "radical surfer dude",
     "image": "https://assets.vogue.in/photos/5d398087368cb7000897ed27/master/pass/007-deepika-padukone-vogue-int-24jul19-getty.jpg  ",
     "bestForHeadShape": ["diamond", "rectangle"]
   },
@@ -137,7 +137,7 @@
     ],
     "hairType": ["curly", "coily"],
     "style": "longer",
-    "etc": "None",
+    "etc": "the braids are in",
     "image": "https://cdn-aikll.nitrocdn.com/zpODUSdXaRhrjOSnTvJWtCYyNCoHlwTB/assets/images/optimized/rev-9ab1e74/wp-content/uploads/2022/09/cornrows-2.jpg",
     "bestForHeadShape": ["oval", "diamond"]
   },
@@ -147,7 +147,7 @@
     "length": [12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23],
     "hairType": ["straight"],
     "style": "longer",
-    "etc": "None",
+    "etc": "eren yeager",
     "image": "https://ath2.unileverservices.com/wp-content/uploads/sites/4/2017/06/manbun-gwilym.jpg",
     "bestForHeadShape": ["rectangle", "square", "oval"]
   },
@@ -157,7 +157,7 @@
     "length": [8, 9, 10, 11, 12, 13, 14],
     "hairType": ["straight"],
     "style": "longer",
-    "etc": "None",
+    "etc": "keep the longer hair on top and out of the way",
     "image": "https://ath2.unileverservices.com/wp-content/uploads/sites/4/2017/07/londonschoolofbarbering-disconnected-top-knot.jpg",
     "bestForHeadShape": ["round", "square", "oval"]
   },
@@ -167,7 +167,7 @@
     "length": [4, 5, 6, 7, 8],
     "hairType": ["straight"],
     "style": "fade",
-    "etc": "None",
+    "etc": "business in the front, party in the back",
     "image": "https://i.pinimg.com/736x/82/df/4a/82df4aebc4ba5e4e34b1a2c9fee1584f.jpg",
     "bestForHeadShape": ["diamond", "rectangle", "square"]
   }

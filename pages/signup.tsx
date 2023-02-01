@@ -44,12 +44,13 @@ const SignUpForm = () => {
                 className="w-full px-4 py-2 mt-2 text-gray-400 bg-gray-700 rounded-lg focus:outline-none focus:bg-white focus:ring-2 focus:ring-red-100 focus:border-transparent"
               />
             </div>
-            <button
+            <a
+              href="/login"
               type="submit"
               className="w-full px-4 py-2 mt-8 text-white bg-red-100 rounded-lg hover:bg-red-200 focus:outline-none focus:bg-red-200"
             >
               Sign Up
-            </button>
+            </a>
             <div className="grid grid-cols-2 pt-4">
               <div className="text-gray-400">Already have an account?</div>
               <div>
