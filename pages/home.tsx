@@ -7,7 +7,7 @@ import Image from "next/image";
 import { useInView } from "react-intersection-observer";
 function Intro() {
   return (
-    <main className="min-h-screen px-10 lg:px-40 mx-auto max-w-8xl font-sans pt-20 pb-20 bg-gray-800">
+    <main className="min-h-screen px-10 lg:px-40 mx-auto max-w-8xl font-sans pt-20 pb-20 bg-gray-900">
       <div className="grid grid-cols-1 lg:grid-cols-2 ">
         <div>
           <h1 className="text-4xl lg:text-6xl text-white-100 block pb-4 font-bold font-sans leading-tight">

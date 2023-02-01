@@ -20,12 +20,12 @@ function Navbar() {
   }, [router.events]);
 
   return (
-    <header className=" w-full z-30  transition duration-300 ease-in-out bg-gray-800 ">
+    <header className=" w-full z-30  transition duration-300 ease-in-out bg-gray-900 backdrop-blur shadow-lg">
       <nav className="px-10 lg:px-40 mx-auto">
         <div className="flex flex-wrap items-center justify-between py-2 md:py-4">
           <div className="w-full relative flex justify-between md:w-auto md:static md:block md:justify-start">
             <Link href="/">
-              <Image src={logo} alt={"Barber Shop"} width={100} height={100} />
+              <Image src={logo} alt={"Barber Shop"} width={80} height={80} />
             </Link>
 
             <button
