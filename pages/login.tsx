@@ -1,10 +1,12 @@
 import React from "react";
+import Navbar from "../components/navbar";
 const handleSubmit = (e: { preventDefault: () => void }) => {
   e.preventDefault();
 };
 const Loginform = () => {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2  px-14 text-center bg-gray-800">
+      <Navbar />
       <form>
         <div className="flex flex-col items-center justify-center w-full p-32 bg-gray-800 rounded-lg shadow-xl">
           <h1 className="text-3xl font-bold text-gray-400">Login</h1>
