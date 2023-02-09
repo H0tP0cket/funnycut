@@ -100,7 +100,7 @@ const FilterHaircuts = () => {
             </div>
             <div className="mb-4">
               <label className="block text-white-100 font-bold mb-2">
-                Hair Length:
+                Hair Length(in):
               </label>
               <input
                 className=" rounded py-2 px-3 text-gray-400 bg-gray-700 focus:outline-none"
@@ -110,7 +110,14 @@ const FilterHaircuts = () => {
             </div>
             <div className="mb-4">
               <label className="block text-gray-700 font-bold mb-2">
-                HairType:
+                HairType:{" "}
+                <a
+                  href="https://drive.google.com/file/d/19F5hT2LSOwIkahE-9LugrqDOIWkgvGoq/view
+                  "
+                  className="underline hover:text-gray-300"
+                >
+                  ?
+                </a>
               </label>
               <select
                 className="bg-gray-700 rounded py-2 px-3 text-gray-400 focus:outline-none  "
