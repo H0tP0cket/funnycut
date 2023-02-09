@@ -127,9 +127,10 @@ const FilterHaircuts = () => {
           </form>
         </div>
 
-        <div className="mt-4 grid md:grid-cols-3 grid-cols-1 p-20 md:p-4 animate__animated animate__slideInDown">
+        <div className="mt-4 grid md:grid-cols-2 grid-cols-1 md:p-4 animate__animated animate__slideInDown gap-8 pr-8">
           {filteredHaircuts.map((haircut) => (
             <Card
+              className="px-4"
               key={haircut.id}
               image={haircut.image}
               name={haircut.name}

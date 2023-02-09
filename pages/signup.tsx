@@ -7,9 +7,9 @@ const SignUpForm = () => {
   return (
     <>
       <Navbar />
-      <div className="flex flex-col items-center justify-center min-h-screen py-2  px-14 text-center bg-gray-800">
+      <div className="flex flex-col items-center justify-center min-h-screen py-2  px-14 text-center bg-gray-900">
         <form>
-          <div className="flex flex-col items-center justify-center w-full p-32 bg-gray-800 rounded-lg shadow-xl">
+          <div className="flex flex-col items-center justify-center w-full p-32 bg-gray-850 rounded-lg shadow-xl">
             <h1 className="text-3xl font-bold text-gray-400">Sign Up</h1>
             <div className="flex flex-col w-full mt-8">
               <label htmlFor="email" className="text-left text-gray-400">

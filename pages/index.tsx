@@ -15,7 +15,7 @@ function Home() {
   return (
     <main className="bg-gray-900 font-sans">
       <Head>
-        <title>Siddharth Srinivasan </title>
+        <title>Hairitage </title>
         <link rel="icon" href="/logos/favicon.ico" />
       </Head>
 

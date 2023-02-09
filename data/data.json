@@ -33,20 +33,20 @@
     "name": "Buzz cut",
     "id": 4,
     "length": [0, 1],
-    "hairType": ["straight"],
+    "hairType": ["straight", "wavy", "curly", "coily"],
     "style": "buzz cut",
     "etc": "clean and simple",
-    "image": "https://cdn-fnknc.nitrocdn.com/jwqHRGAzpUgGskUSHlppNQzwuXgXIKwg/assets/images/optimized/rev-971f4d9/wp-content/uploads/2021/11/Buzz-Cut-Fade_vinicius.rodrigues.barber.jpg",
+    "image": "https://i.pinimg.com/originals/be/b2/1a/beb21ab5b6131d8a2009e5ab730055ae.jpg",
     "bestForHeadShape": ["diamond", "square", "oval"]
   },
   {
     "name": "Undercut",
     "id": 5,
-    "length": [4, 5, 6],
+    "length": [4, 5, 6, 7, 8, 9],
     "hairType": ["straight"],
     "style": "undercut",
     "etc": "shave the sides and keep the top longer to get a clean undercut",
-    "image": "https://menshaircuts.com/wp-content/uploads/2021/08/curly-undercut-disconnected-drop-bald-fade-short-683x1024.jpg",
+    "image": "https://i.pinimg.com/736x/c0/34/5d/c0345d3820a51d2d1aa27f365be4a534--mens-undercut-undercut-hairstyles.jpg",
     "bestForHeadShape": ["round", "oval"]
   },
   {
@@ -138,7 +138,7 @@
     "hairType": ["curly", "coily"],
     "style": "longer",
     "etc": "the braids are in",
-    "image": "https://cdn-aikll.nitrocdn.com/zpODUSdXaRhrjOSnTvJWtCYyNCoHlwTB/assets/images/optimized/rev-9ab1e74/wp-content/uploads/2022/09/cornrows-2.jpg",
+    "image": "https://i.pinimg.com/originals/89/5c/ba/895cba83048796dce263e9a1106ab63a.jpg",
     "bestForHeadShape": ["oval", "diamond"]
   },
   {
@@ -170,5 +170,58 @@
     "etc": "business in the front, party in the back",
     "image": "https://i.pinimg.com/736x/82/df/4a/82df4aebc4ba5e4e34b1a2c9fee1584f.jpg",
     "bestForHeadShape": ["diamond", "rectangle", "square"]
+  },
+  {
+    "name": "Mohawk",
+    "id": 18,
+    "length": [2, 3, 4, 5, 6],
+    "hairType": ["curly", "coily"],
+    "style": "mohawk",
+    "etc": "Shave the sides and keep the top longer for a bold and edgy look",
+    "image": "https://i.pinimg.com/originals/28/dd/6f/28dd6fb77d7fd99d9967eff0056ff668.jpg",
+    "bestForHeadShape": ["diamond", "rectangle"]
+  },
+  {
+    "name": "Afro",
+    "id": 19,
+    "length": [4, 5, 6, 7],
+    "hairType": ["coily"],
+    "style": "afro",
+    "etc": "Let your natural curls flourish for a classic afro look",
+    "image": "https://i.pinimg.com/736x/85/83/ab/8583ab6c3af86779b3c3c989b0d23ef3.jpg",
+    "bestForHeadShape": ["round", "oval"]
+  },
+
+  {
+    "name": "Coily Bob",
+    "id": 21,
+    "length": [6, 7, 8, 9],
+    "hairType": ["coily"],
+    "style": "fade",
+    "etc": "very cool and awesome hair cut. also called coily bob.",
+    "image": "https://www.byrdie.com/thmb/vl41i6t2qjuguWcRzlm8CYiNEfQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1208049633-369a3d28980642fb84498c5bde294ab6.jpg",
+    "bestForHeadShape": ["diamond", "rectangle", "square", "heart", "oval"]
+  },
+
+  {
+    "name": "Curly Undercut",
+    "id": 22,
+    "length": [5, 6, 7, 8, 9, 10],
+    "hairType": ["curly"],
+    "style": "fade",
+    "etc": "Imagine you put curly hair and an undercut together.",
+    "image": "https://menshairstyletips.com/wp-content/uploads/2020/04/Curly-Undercut-Modern-Curly-Haircuts.jpgg",
+    "bestForHeadShape": ["diamond", "rectangle", "square"]
+  },
+
+  {
+    "name": "Wavy fringe",
+    "id": 23,
+    "length": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "hairType": ["wavy"],
+    "style": "fade",
+    "etc": "Most generational cut that will give you all the confidence in the world RAHHH",
+    "image": "https://haircutinspiration.com/wp-content/uploads/2022/11/Wavy-Hair-with-Temple-Fade-1.jpg",
+    "bestForHeadShape": ["diamond", "rectangle", "square", "oval"]
   }
 ]
